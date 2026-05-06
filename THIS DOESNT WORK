@@ -1,4 +1,3 @@
-# mousefollower
 (function () {
   var img = document.createElement("img");
 
